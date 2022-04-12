@@ -1,0 +1,5 @@
+{
+    "crypto": "SOL",
+    "entryprice": "1000",
+    "sellthreshold" : "1001"
+}
