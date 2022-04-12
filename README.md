@@ -11,7 +11,7 @@
 - [Matplotlib](https://matplotlib.org/)
 - [Requests](https://pypi.org/project/requests/)
 
-Using Coinbase API (https://developers.coinbase.com/) app is checking in real time crypto price changes on market. When profit increases over sell price threshold then app stops and creates plot.
+Using Coinbase API (https://api.coinbase.com/) app is checking in real time crypto price changes on market. When profit increases over sell price threshold then app stops and creates plot.
 
 To change crypto data values edit **config.json** file
 ```json
